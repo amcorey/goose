@@ -9,6 +9,8 @@ This repository is for sharing development updates.
 
 Goose Delivery System Specifications:.
 - 5 mile delivery radius.
+- 5 lb payload capacity.
+- 10" x 12" x 10" payload volume.
 - 40 mph cruise speed.
 - Virtually point-to-point flight paths.
 - Rain or snow, 24/7/365 operations.
